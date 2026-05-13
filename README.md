@@ -39,7 +39,10 @@ local en Android y como conectar todo con la UI.
 
 ## Screenshots
 
-> Proximamente 📸
+<img width="180"  alt="image" src="https://github.com/user-attachments/assets/0dfbeb0b-0f72-4df3-bd94-c59f0bbe7f5b" />
+<img width="180"  alt="image" src="https://github.com/user-attachments/assets/e9803133-7050-4dac-98ff-e8ac9e0f58a0" />
+<img width="180"  alt="image" src="https://github.com/user-attachments/assets/32ac9aee-e607-441c-b999-a33792963e9e" />
+
 
 ## Notas
 
