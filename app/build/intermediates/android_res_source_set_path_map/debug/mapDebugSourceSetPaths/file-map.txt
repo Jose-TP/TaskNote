@@ -1,0 +1,8 @@
+com.example.roomexample.app-pngs-0 C:\Users\joset\AndroidStudioProjects\RoomExample\app\build\generated\res\pngs\debug
+com.example.roomexample.app-updated_navigation_xml-1 C:\Users\joset\AndroidStudioProjects\RoomExample\app\build\generated\updated_navigation_xml\debug
+com.example.roomexample.app-packageDebugResources-2 C:\Users\joset\AndroidStudioProjects\RoomExample\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.roomexample.app-packageDebugResources-3 C:\Users\joset\AndroidStudioProjects\RoomExample\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.roomexample.app-debug-4 C:\Users\joset\AndroidStudioProjects\RoomExample\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.roomexample.app-debug-5 C:\Users\joset\AndroidStudioProjects\RoomExample\app\src\debug\res
+com.example.roomexample.app-main-6 C:\Users\joset\AndroidStudioProjects\RoomExample\app\src\main\res
+gradleHome-0 C:\Users\joset\.gradle
